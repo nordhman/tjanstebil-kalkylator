@@ -2,6 +2,12 @@
 declare(strict_types=1);
 
 /**
+ * START BROWSER
+ * $ php -S 0.0.0.0:8000 -t .
+ * 
+ * COMMIT AND PUSCH
+ * git status git add index.php git commit -m "Add initial calculator" git push
+ * 
  * Tjänstebilskalkylator (v0.1)
  * - Single-file index.php
  * - Tailwind via CDN
