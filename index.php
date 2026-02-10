@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 /**
  * START BROWSER
- * $ php -S 0.0.0.0:8000 -t .
+ * $ php -S 0.0.0.0:8000 -t . AAAA
  * 
  * COMMIT AND PUSCH
  * git status git add index.php git commit -m "Add initial calculator" git push
